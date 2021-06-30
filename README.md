@@ -1,0 +1,2 @@
+# FOREX_RelativeStrengthOscillator
+Creating relative strength oscillator
